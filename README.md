@@ -8,7 +8,7 @@ Script termux SPAM pairing code
 <details open><summary><code>Perintah Script?</code></summary>
 
 ```php
-$ git clone https://github.com/Sudisf/spam
+$ git clone https://github.com/Sudisf/spam-pairing
 
 $ cd pairing.js
 
