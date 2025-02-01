@@ -2,8 +2,8 @@ Welcome
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
-# Prank Call V2
-Script termux prank call v2 terbaru !
+# SPAM pairing wa
+Script termux SPAM pairing code
 
 <details open><summary><code>Perintah Script?</code></summary>
 
@@ -12,9 +12,6 @@ $ git clone https://github.com/Sxp-ID/prank-call-v2
 $ cd prank-call-v2
 $ make install
 $ ./main
-
-Atau bisa juga run script nya dg ketik perintah
-$ make run
 ```
 </details>
 
