@@ -8,10 +8,11 @@ Script termux SPAM pairing code
 <details open><summary><code>Perintah Script?</code></summary>
 
 ```php
-$ git clone https://github.com/Sxp-ID/prank-call-v2
-$ cd prank-call-v2
-$ make install
-$ ./main
+$ git clone https://github.com/Sudisf/spam
+
+$ cd pairing.js
+
+$ node pairing.js
 ```
 </details>
 
